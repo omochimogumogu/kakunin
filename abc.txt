@@ -1,6 +1,6 @@
 aaa
-BBB
-ccc
+bbb
+CCC
 ddd
 eee
 fff
